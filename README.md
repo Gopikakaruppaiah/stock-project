@@ -1,1 +1,1 @@
-Full dataset contains 47,000 generated images and was not uploaded due to GitHub storage limitations.
+The full dataset contains 47,000 generated images and was not uploaded to GitHub due to storage limitations.
